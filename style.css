@@ -1,0 +1,54 @@
+body
+{
+    text-align: center;
+}
+#body1{
+    background-color: black;
+}
+#app {
+    background-color: rgb(231, 88, 188);
+}
+
+#myCarousel
+{
+    background:linear-gradient(#6d0083 0%,#e418b1 100%)  
+}
+#myCarousel img 
+{
+height: 400px;
+margin-top: 35px;
+}
+.carousel-inner p
+{
+margin-top: 15px;
+color: hsl(0, 0%, 0%);
+font-size: 20px;
+}
+#h21{
+text-align: left;
+color:white;
+}
+
+#myCarousel1
+{
+    background:linear-gradient(#e418b1 0%,#1170be 100%)
+}
+#myCarousel1 img 
+{
+height: 400px;
+margin-top: 35px;
+}
+
+#myCarousel2
+{
+    background:linear-gradient(#1170be 0%,#ffffff 100%)
+}
+#myCarousel2 img 
+{
+height: 400px;
+margin-top: 35px;
+}
+h1{
+background-color: #e418b1;
+
+}
